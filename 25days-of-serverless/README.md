@@ -4,56 +4,16 @@
 
 - **[Contents 25 days of Serverless](#contents-25-days-of-serverless)**
   - **[Main Goal](#main-goal)** 🎯
-  - **[Rules](#rules)** 🎫
-  - **[Suggested Resources](#suggested-resources)** 📑
-  - **[Azure For Students Account](#azure-for-students-account)** ⭐️
-  - **[How Submit Your Solution](#submit-your-solution-as-a-custom-ISSUE-to-our-repository)** 🔥
   - **[Challenges](#challenges)** 💻
   - **[Discord Channel](#discord-channel)** 💬
   - **[Solutions](#solutions)** 💡
     - **[Solutions Week-1](#solutions-week-1)**
     - **[Solutions Week-2](#solutions-week-2)**
     - **[Solutions Week-3](#solutions-week-3)**
-  - **[Contributing](#contributing)** 🚩
-  - **[Contributors Hall of Fame](CONTRIBUTORS.md)** 🏆
-  - **[Awesome - Azure Functions & Serverless](RESOURCES.md)** 📚
 
 ## Main Goal
 
 There is no better way to learn a new technology than with gamification. And we're here to help you learn Serverless once and for all with 25 daily challenges: 25 days of Serverless! Come join!
-
-## Rules
-
-1. Solve each [coding challenge](https://aka.ms/25daysofserverless) in the first 25 days of December.
-
-2. Tweet your progress during the challenge period using the hashtag [#25DaysOfServerless](https://twitter.com/search?q=%2325DaysOfServerless).
-
-3. Submit the code of your solution as a PR to this repository before the sample solution gets published (usually 24h after the challenge is published).
-
-4. You may get picked for a mention during our weekly wrap-up video. If you submit a PR you agree that we mention your name and/or nicknames (GitHub, Twitter) publicly in the context of 25 Days of Serverless.
-
-## Suggested Resources
-
-- **[Visual Studio Code](https://code.visualstudio.com/?WT.mc_id=25daysofserverless-github-cxa)**
-- **[Azure Account](https://azure.microsoft.com/?WT.mc_id=25daysofserverless-github-cxa)**
-- **[Azure Functions Extension](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurefunctions&WT.mc_id=25daysofserverless-github-cxa)**
-
-## Azure For Students Account
-
-If you are a student at a College or University, you can create your **[Azure for Students](https://azure.microsoft.com/free/students/?WT.mc_id=25daysofserverless-github-cxa)** account. This account will give you the benefit of having a \$ 100 credit to use the Azure Services for free, without having a credit card and free developer tools as well. To activate this account, just access the link **[HERE](https://azure.microsoft.com/free/students/?WT.mc_id=25daysofserverless-github-cxa)**.
-
-## Submit your solution as a custom ISSUE to our repository
-
-🚨 **Submission Process Change:** Starting Dec 3, 2019 🚨
-
-> _We've been blown away at the interest and engagement around this challenge! The previous process used Pull Requests. The new process uses Issues. We hope this change makes it easier for you to send us your amazing work, and for us to highlight your contributions. New PRs after Dec 4, 2019 may not be processed._
-
-Be among the first contributors and solve the challenge within 24 hours of publishing. To have your contribution acknowledged, follow our [CONTRIBUTING.md](CONTRIBUTING.md) guidelines. The short version:
-
-1.  Create a Github repo with your solution for that challenge
-2.  Fill in the details for the [Challenge Solution Submission](https://github.com/microsoft/25-days-of-serverless/issues/new?assignees=&labels=challenge-submission&template=challenge-solution-submission.md&title=%5BCHALLENGE+SUBMISSION%5D+) issue and submit.
-
-Have questions or comments? Submit a regular [ISSUE](https://github.com/microsoft/25-days-of-serverless/issues/new/choose) here with details.
 
 ## Discord Channel
 
