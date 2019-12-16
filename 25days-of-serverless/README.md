@@ -1,11 +1,5 @@
 # 25 Days of Serverless
 
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
-
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
-
-[![advent-of-serverless.gif](https://s5.gifyu.com/images/advent-of-serverless.gif)](https://gifyu.com/image/vNo5)
-
 ## Contents
 
 - **[Contents 25 days of Serverless](#contents-25-days-of-serverless)**
