@@ -1,5 +1,8 @@
 ## First Challenge : Simple Yes Or No
 
+[](public/images/1.png)
+[](public/images/2.png)
+
 ### Project Scaffolding
 Azure Functions + React
 
