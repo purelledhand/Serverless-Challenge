@@ -1,7 +1,7 @@
 ## First Challenge : Simple Yes Or No
 
-<img src="public/images/1.png" width="450px"></img><br/>
 <img src="public/images/2.png" width="450px"></img><br/>
+<img src="public/images/1.png" width="450px"></img><br/>
 
 ### Project Scaffolding
 Azure Functions + React
