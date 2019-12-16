@@ -6,5 +6,6 @@ Project Scaffolding and other tips are wrote at each challenge.
 * [Simple yes or no](https://github.com/purelledhand/Serverless-Challenge/tree/master/yes-or-no)
 * [25 days of serverless challenge](https://github.com/purelledhand/Serverless-Challenge/tree/master/25days-of-serverless)
   * [Day1 : Serverless Dreidel](https://github.com/purelledhand/Serverless-Challenge/tree/master/25days-of-serverless/day-1)
+    <br><img src="25days-of-serverless/day-1/public/images/1.png" width="450px"></img><br>
 * blog
 
